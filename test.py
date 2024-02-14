@@ -12,4 +12,4 @@ for i in coin :
 print(count)
 
 
-coins.sort(reverse=True)
+coin.sort(reverse=True)
